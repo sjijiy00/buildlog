@@ -1,0 +1,3 @@
+Alembic migration environment for the BuildLog database.
+
+Phase 1 intentionally contains no migration revisions because no tables exist yet.
